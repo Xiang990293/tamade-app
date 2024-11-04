@@ -9,7 +9,9 @@ while you may be able to get some price from it.
 # How to Download
 
 To download, go to Google Play Store or ios App Stroe from the link below:
+
 Android: (Not available yet)
+
 ios: (Not available yet)
 
 # New Update
